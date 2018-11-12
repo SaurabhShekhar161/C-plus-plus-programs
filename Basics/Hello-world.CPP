@@ -1,8 +1,5 @@
 #include<iostream>
-using namespace std;
-
-int main()
+void main()
 {
-  cout << "Hello world. This is my first Program" << "\n";
-  return 0;
+  cout << "Hello world." << "\n";
 }
